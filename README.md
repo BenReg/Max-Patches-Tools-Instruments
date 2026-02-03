@@ -7,6 +7,6 @@ It's WIP : Can play samples through different polybuffers to create interesting 
 An ambient sines generator inspired by this one https://www.youtube.com/watch?v=nQhsYv9w-z0&list=PLhbvpDVWhaMfgH0uXs-d7lN-nZWCj4rwj&index=2
 
 3 : 3 to 7 - 196 - Phill Niblock<br>
-University project to recreates the "3 to 7 - 196" piece by Phill Niblock.
+University project to recreate the "3 to 7 - 196" piece by Phill Niblock.
 Not the easiest way to achieve this but good for learning about the pattrstorage and coll objects.
 
